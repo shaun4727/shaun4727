@@ -39,6 +39,7 @@
 [![Shaun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaun4727&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaun4727&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaun4727&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
