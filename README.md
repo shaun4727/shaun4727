@@ -1,3 +1,6 @@
+<img src='./images/cover/git-banner-img.png'  />
+
+
 ## As Salamu Alaikum, I am [Shaun Hossain](https://my-portfolio-client-kappa.vercel.app/)
 
 
