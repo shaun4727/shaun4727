@@ -16,7 +16,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 💻 I daily work on: **Vue.js**, **React.js**, **Node.js**,  **MongoDB**
-- 📖 I am currently learning Data Structure and Algorithm through a course.
+- 📖 I am currently learning Data Structure and Algorithm.
 - 💬 You can share your ideas to transform them in a digital platform/Website
 
 - 🧑‍💻 Tech I work on :
