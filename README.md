@@ -28,6 +28,15 @@ Direct, high-impact technical professional with 3+ years of experience engineeri
 
 ---
 
+### 🏗️ Deployed Systems & Architecture
+
+| Project & Domain | Architectural Focus & Tech Stack | Live Deployment |
+| :--- | :--- | :--- |
+| 🛒 **Enterprise E-Commerce (EMart)** | **Stack:** `Next.js` `Node.js` `TypeScript` `MongoDB`<br>Architected secure Stripe checkouts, strict role-based authentication, and optimized Server-Side Rendering (SSR). | [🌐 View System](https://advanced-e-commerce-client.vercel.app/) |
+| 📹 **Scalable Streaming Platform** | **Stack:** `Next.js` `PostgreSQL` `Prisma` `TypeScript`<br>Designed complex relational database schemas to handle video uploads, secure playback, and subscription management. | [🌐 View System](https://you-tube-clone-rose-alpha.vercel.app/) |
+| 📋 **Agile Project Management** | **Focus:** `Workflow Orchestration` `State Management`<br>Engineered dynamic task tracking, team collaboration interfaces, and robust UI state handling. | [🌐 View System](https://project-management-system-frontend-gilt.vercel.app/) |
+| 📅 **Calendra Scheduling System** | **Focus:** `Data Flow` `Interactive UI`<br>Built seamless date-state management and complex scheduling calendar logic. | [🌐 View System](https://calendra-project-gzty.vercel.app/) |
+| 🏆 **The Podium Mindset** | **Stack:** `GSAP` `Immersive Frontend`<br>Developed high-performance scroll animations and complex DOM manipulations for an interactive coaching platform. | [🌐 View System](https://podmium-cone.vercel.app/) |
 
 
 ### 🏆 Professional Landmarks
@@ -55,4 +64,5 @@ Direct, high-impact technical professional with 3+ years of experience engineeri
 ### <img src='./images/technology-logo/awards.jpg' width='25' /> Awards and Achievement:
 
 <img src="./images/awards-achievement/level-2-certificate.png" height="350" />
+<img src="./images/awards-achievement/phitron-certificate.png" height="350" />
 
