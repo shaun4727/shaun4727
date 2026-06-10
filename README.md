@@ -31,27 +31,15 @@ Direct, high-impact technical professional with 3+ years of experience engineeri
 ### 🏗️ Deployed Systems & Architecture
 
 
+
 | Project & Domain | Architectural Focus & Tech Stack | Live Deployment |
-| --- | --- | --- |
-| 🤖 **Agentic AI Streaming Backend** | **Stack:** `FastAPI` `Python` `LangChain` `LangGraph` `pgvector`<br>
-
-<br>Engineered real-time asynchronous Server-Sent Events (SSE) token streaming, stateful multi-step agent reasoning loops, strict input guardrail validation, and optimized vector semantic retrieval. | [🌐 View System](https://learning-langchain.onrender.com) |
-| 🛒 **Enterprise E-Commerce (EMart)** | **Stack:** `Next.js` `Node.js` `TypeScript` `MongoDB`<br>
-
-<br>Architected secure Stripe checkouts, strict role-based authentication, and optimized Server-Side Rendering (SSR). | [🌐 View System](https://advanced-e-commerce-client.vercel.app/) |
-| 📹 **Scalable Streaming Platform** | **Stack:** `Next.js` `PostgreSQL` `Prisma` `TypeScript`<br>
-
-<br>Designed complex relational database schemas to handle video uploads, secure playback, and subscription management. | [🌐 View System](https://you-tube-clone-rose-alpha.vercel.app/) |
-| 📋 **Agile Project Management** | **Focus:** `Workflow Orchestration` `State Management`<br>
-
-<br>Engineered dynamic task tracking, team collaboration interfaces, and robust UI state handling. | [🌐 View System](https://project-management-system-frontend-gilt.vercel.app/) |
-| 📅 **Calendra Scheduling System** | **Focus:** `Data Flow` `Interactive UI`<br>
-
-<br>Built seamless date-state management and complex scheduling calendar logic. | [🌐 View System](https://calendra-project-gzty.vercel.app/) |
-| 🏆 **The Podium Mindset** | **Stack:** `GSAP` `Immersive Frontend`<br>
-
-<br>Developed high-performance scroll animations and complex DOM manipulations for an interactive coaching platform. | [🌐 View System](https://podmium-cone.vercel.app/) |
-
+| :--- | :--- | :--- |
+| 🤖 **Agentic AI Streaming Backend** | **Stack:** `FastAPI` `Python` `LangChain` `LangGraph` `pgvector`<br>Engineered real-time asynchronous Server-Sent Events (SSE) token streaming, stateful multi-step agent reasoning loops, strict input guardrail validation, and optimized vector semantic retrieval. | [🌐 View System](https://learning-langchain.onrender.com) |
+| 🛒 **Enterprise E-Commerce (EMart)** | **Stack:** `Next.js` `Node.js` `TypeScript` `MongoDB`<br>Architected secure Stripe checkouts, strict role-based authentication, and optimized Server-Side Rendering (SSR). | [🌐 View System](https://advanced-e-commerce-client.vercel.app/) |
+| 📹 **Scalable Streaming Platform** | **Stack:** `Next.js` `PostgreSQL` `Prisma` `TypeScript`<br>Designed complex relational database schemas to handle video uploads, secure playback, and subscription management. | [🌐 View System](https://you-tube-clone-rose-alpha.vercel.app/) |
+| 📋 **Agile Project Management** | **Focus:** `Workflow Orchestration` `State Management`<br>Engineered dynamic task tracking, team collaboration interfaces, and robust UI state handling. | [🌐 View System](https://project-management-system-frontend-gilt.vercel.app/) |
+| 📅 **Calendra Scheduling System** | **Focus:** `Data Flow` `Interactive UI`<br>Built seamless date-state management and complex scheduling calendar logic. | [🌐 View System](https://calendra-project-gzty.vercel.app/) |
+| 🏆 **The Podium Mindset** | **Stack:** `GSAP` `Immersive Frontend`<br>Developed high-performance scroll animations and complex DOM manipulations for an interactive coaching platform. | [🌐 View System](https://podmium-cone.vercel.app/) |
 
 ### 🏆 Professional Landmarks
 
